@@ -1,0 +1,689 @@
+[
+    {
+        "card_name": "Active Cash Visa Card",
+        "section_type": "Interest Rates and Interest Charges",
+        "details": [
+            {
+                "type": "Annual Percentage Rate (APR) for Purchases",
+                "value": "0.00% introductory APR for 12 months from date of account opening. After that, your APR will be 19.24%, 24.24%, or 29.24%, based on your creditworthiness. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "Annual Percentage Rate (APR) for Balance Transfers",
+                "value": "0.00% introductory APR for 12 months from date of account opening. After that, your APR will be 19.24%, 24.24%, or 29.24%, based on your creditworthiness. This APR will vary with the market based on the U.S. Prime Rate. A balance transfer request must be made within 120 days from account opening to qualify for the introductory APR. Balance Transfers are subject to eligibility."
+            },
+            {
+                "type": "APR for Cash Advances and Overdraft Protection Advances",
+                "value": "29.99%. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "How to Avoid Paying Interest on Purchases",
+                "value": "Your due date is at least 25 days after the close of each billing period. We will not charge you interest on purchases if you pay your entire balance by the due date each month."
+            },
+            {
+                "type": "Minimum Interest Charge",
+                "value": "If you are charged interest, the charge will be no less than $1.00."
+            },
+            {
+                "type": "For Credit Card Tips from the Consumer Financial Protection Bureau",
+                "value": "To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at https://www.consumerfinance.gov/learnmore.*"
+            }
+        ]
+    },
+    {
+        "card_name":"Active Cash Visa Card",
+        "section_type":"Fees",
+        "details":[
+            {
+                "type":"Annual Fees",
+                "value":"None"
+            },
+            {
+                "type":"Transaction Fees",
+                "value":[
+                    {
+                        "type":"Balance Transfer",
+                        "value":"Introductory fee of either $5 or 3% of the amount of each balance transfer, whichever is greater, for 120 days from account opening. After that, up to 5% for each balance transfer, with a minimum of $5."
+                    },
+                    {
+                        "type":"Cash Advance",
+                        "value":"Either $10 or 5% of the amount of each advance, whichever is greater."
+                    },
+                    {
+                        "type":"Foreign Transaction",
+                        "value":"3% of each transaction converted to U.S. dollars."
+                    }
+                ]
+            },
+            {
+                "type": "Penalty Fees",
+                "value": [
+                    {
+                        "type": "Late Payment",
+                        "value": "Up to $40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "card_name": "Active Cash Visa Card",
+        "section_type": "How we will calculate your balance",
+        "details": [
+            {
+                "question": "How we will calculate your balance",
+                "answer": "We use a method called 'average daily balance (including new purchases).' We will begin charging interest on cash advances and balance transfers on the transaction date."
+            }
+        ]
+    },
+    {
+        "card_name": "Active Cash Visa Card",
+        "section_type": "Important Details About Using This Credit Card Account",
+        "details": [
+            {
+                "question": "What is this application for?",
+                "answer": "This application is for a credit card account with Wells Fargo Bank, N.A."
+            },
+            {
+                "question": "What do you agree to by applying for this credit card account?",
+                "answer": "Correct Information: You agree that all the information you provided in this application is true, correct, and complete. Legal Capability: You agree that you can legally enter into the Consumer Credit Card Customer Agreement and Disclosure Statement (Agreement). Marital Status: Regardless of your marital status, you are applying for a credit card account in your own name. Account Agreement: You agree to the terms and conditions of the Agreement which will be sent to you. You can also access the Agreement by accessing this link: https://www.wellsfargo.com/credit-cards/agreements/active-cash-agreement/. Please note that the Agreement’s terms may change at any time, subject to applicable law. Arbitration Terms: You agree to the arbitration terms included in the Agreement. You can access the arbitration terms by accessing this link: https://www.wellsfargo.com/credit-cards/agreements/active-cash-agreement/. Financial Liability: By using this account, you are financially liable (responsible) for any amount you charge or authorize another to charge, including any amounts by any authorized users. Verification: By applying for this credit card account, you agree that we may:Verify or check any of the information you give us, Obtain credit reports about you, Investigate your credit, employment, and income history, Investigate your state records, including state employment security agency records, Report information about your account to consumer reporting agencies. You also agree that we may obtain a consumer report from consumer reporting agencies to do the following: Consider your application, Update, renew, extend credit, review, or collect money on this Account. Upon your request, we will tell you the name and address of each consumer reporting agency that provides us a consumer report about you."
+            },
+            {
+                "question": "Will you qualify if you have or have had more than one Wells Fargo Credit Card account?",
+                "answer": "You may not qualify for an additional Wells Fargo-branded credit card if you have opened a Wells Fargo-branded credit card in the last 6 months. Eligibility for introductory rates, fees and/or rewards bonus offers: You may not be eligible for introductory annual percentage rates, fees and/or rewards bonus offers if you have a Wells Fargo Active Cash Visa® or opened one within the last 48 months from the date of this application - even if that account is closed and has a $0 balance."
+            },
+            {
+                "question": "What procedures do we use to verify your identity when you open an Account?",
+                "answer": "To help the government fight the funding of terrorism and money laundering activities, U.S. Federal law requires financial institutions to obtain, verify, and record information that identifies each person (individual or business) who opens an account. What this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask for your driver’s license or other identifying information."
+            },
+            {
+                "question": "How do we review this application?",
+                "answer": "You agree that we can review your criteria to determine which products you qualify for and how much credit we will give you. Further, you agree that we will give you the product and pricing you qualify for."
+            },
+            {
+                "question": "What should you do once you receive your new card?",
+                "answer": "As soon as your new card arrives, please confirm with us that you received it. You can confirm your card by using one of many convenient methods that we provided with your card. If you do not confirm your card, your requests for certain services may be delayed, such as: Balance transfers, Overdraft Protection, Wells Fargo Online®, ATM access.Further, you may also be denied access to your Account."
+            },
+            {
+                "question": "What is the minimum credit limit?",
+                "answer": "The minimum credit limit is $1,000.00."
+            },
+            {
+                "question": "How do we calculate your variable APRs?",
+                "answer": "A variable APR is an interest rate that varies with the market based on the U.S. Prime Rate. To calculate your variable APR for each billing period, we use the U.S. Prime Rate and add a margin."
+            },
+            {
+                "question": "How do we verify information from phone service providers?",
+                "answer": "You agree that we may contact your past, present, and future phone service providers to verify information that you gave us including any phone numbers against their records about you (such as name, address and account status)."
+            }
+        ]
+    },
+    {
+        "card_name":"Active Cash Visa Card",
+        "section_type": "Summary of the Wells Fargo Rewards Program Terms and Conditions and the Wells Fargo Active Cash Addendum",
+        "details": [
+            {
+                "question": "What do you earn by participating in the Program?",
+                "answer": "In this Program, you have a Rewards Account, which holds, calculates, or collects Rewards. These Rewards can be either Cash Rewards (including Rebates, which you will earn as Cash Rewards) or Points. Rewards only have cash value when or after you redeem them."
+            }, 
+            {
+                "question": "How do we calculate Cash Rewards?",
+                "answer": "For every $1.00 you spend with this Credit Card for net purchases, you earn two cents ($0.02) in Cash Rewards. Net purchases are purchases you make minus any returns and/or credits you have. We round the amount to the nearest whole dollar."
+            }, 
+            {
+                "question": "What can reduce or eliminate your Cash Rewards?",
+                "answer": "You will lose earned Cash Rewards if you return a purchase or receive credit from a disputed purchase. As a result, you may create a negative Cash Rewards balance, which will appear in your Rewards Account within one to two billing periods. We will calculate this negative balance into your Rewards Balance as you continue to buy items or do other non-credit card activity."
+            }, 
+            {
+                "question": "Do Cash Rewards expire?",
+                "answer": "Cash Rewards do not expire while the Credit Card Account is open."
+            }, 
+            {
+                "question": "What happens to your Cash Rewards if you pay your Credit Card late?",
+                "answer": "Your Credit Card becomes delinquent (late) when you do not pay your required payment by its due date. When this happens, your ability to redeem Rewards will not change."
+            }, 
+            {
+                "question": "Can you cancel your Cash Rewards Program?",
+                "answer": "Yes. You can cancel your Cash Rewards by closing your Credit Card Account. The following conditions apply: If you have closed all your Rewards-eligible Credit Cards: You give up any pending or active Rewards that exist on the date that the Account closes. The only exceptions are what may exist in the Terms. If you have multiple Credit Cards in your Rewards Account and you close one Credit Card: Your Rewards still stay in your Rewards Account."
+            }
+        ]
+    },
+    {
+        "card_name": "Choices Privileges Select World Elite Mastercard",
+        "section_type": "Interest Rates and Interest Charges",
+        "details": [
+            {
+                "type": "Annual Percentage Rate (APR) for Purchases",
+                "value": "19.99%, 24.24%, or 29.24%, based on your creditworthiness.This APR will vary with the market based on the U.S. Prime Rate. "
+            },
+            {
+                "type": "Annual Percentage Rate (APR) for Balance Transfers",
+                "value": " 19.99%, 24.24%, or 29.24%, based on your creditworthiness. Balance Transfers are subject to eligibility. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "APR for Cash Advances",
+                "value": "29.99%. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "How to Avoid Paying Interest on Purchases",
+                "value": "Your due date is at least 25 days after the close of each billing period. We will not charge you interest on purchases if you pay your entire balance by the due date each month."
+            },
+            {
+                "type": "Minimum Interest Charge",
+                "value": "If you are charged interest, the charge will be no less than $1.00."
+            },
+            {
+                "type": "For Credit Card Tips from the Consumer Financial Protection Bureau",
+                "value": "To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at https://www.consumerfinance.gov/learnmore.*"
+            }
+        ]
+    },
+    {
+        "card_name":"Choices Privileges Select World Elite Mastercard",
+        "section_type":"Fees",
+        "details":[
+            {
+                "type":"Annual Fees",
+                "value":"$95"
+            },
+            {
+                "type":"Transaction Fees",
+                "value":[
+                    {
+                        "type":"Balance Transfer",
+                        "value":"5% for each balance transfer, with a minimum of $5."
+                    },
+                    {
+                        "type":"Cash Advance",
+                        "value":"Either $10 or 5% of the amount of each advance, whichever is greater."
+                    },
+                    {
+                        "type":"Foreign Transaction",
+                        "value":"None"
+                    }
+                ]
+            },
+            {
+                "type": "Penalty Fees",
+                "value": [
+                    {
+                        "type": "Late Payment",
+                        "value": "Up to $40"
+                    }
+                ]
+            }
+        ]
+    },{
+        "card_name": "Choices Privileges Select World Elite Mastercard",
+        "section_type": "How we will calculate your balance",
+        "details": [
+            {
+                "question": "How we will calculate your balance",
+                "answer": "Unless an introductory or promotional APR is in effect, we will add a  to the U.S. Prime Rate to determine your standard variable APR. For each billing period we will use the U.S. Prime Rate, or the average of the U.S. Prime Rates if there is more than one, published in the Money Rates column of The Wall Street Journal three business days prior to your billing statement closing date. If the U.S. Prime Rate is not published or is otherwise unavailable, whether temporarily or permanently, we will select a substitute index that we believe, in our sole discretion, to be similar to the U.S. Prime Rate. The U.S. Prime Rate is 7.50 percentage points as of 01/08/2025. The 'Margin' for purchases and balance transfers will be 12.49 to 21.74 percentage points, based on your creditworthiness. The Maximum APR is 29.99%. The 'Margin' for cash advances will be 22.74 percentage points. The Maximum APR is 29.99%.Wells Fargo reserves the right to change terms, rates (APRs) and fees, at its discretion in accordance with the Consumer Credit Card Customer Agreement and Disclosure Statement ('Agreement') for your account and applicable law. You may not qualify for the lowest APRs disclosed above. The APRs applicable to your account will be determined by our review of your credit report, information you provide on your application, and other relevant information available to us."
+            }
+        ]
+    }
+    ,{
+        "card_name": "Choices Privileges Select World Elite Mastercard",
+        "section_type": "Eligibility for introductory bonus rewards offer",
+        "details": [
+            {
+                "question": "Eligibility for introductory bonus rewards offer",
+                "answer": "You may not be eligible for an introductory bonus rewards offer if you opened a Choice Privileges Mastercard Credit Card or a Choice Privileges Select Mastercard Credit Card within the last 15 months from the date of this application and you received an introductory bonus rewards offer - even if that account is closed and has a $0 balance.We will begin charging interest on cash advances and balance transfers on the transaction date."
+            }
+        ]
+    },{
+        "card_name": "Choices Privileges Select World Elite Mastercard",
+        "section_type": "Important Details About Using This Credit Card Account",
+        "details": [
+            {
+                "question": "when the Application of payments for?",
+                "answer": "Generally, we will apply your minimum payment first to lower APR balances (such as Purchases) before balances with higher APRs (such as Cash Advances). Payments made in excess of the minimum payment will generally be applied to balances with higher APRs first before balances with lower ones."
+            },
+            {
+                "question": "What are the Important information about procedures for opening a new account?",
+                "answer": "To help the government fight the funding of terrorism and money laundering activities, U.S. Federal law requires financial institutions to obtain, verify, and record information that identifies each person (individual or business) who opens an account. What this means for you: when you open an account, we will ask for your name, address, date of birth and other information that will allow us to identify you. We may also ask for your driver's license or other identifying information. "
+            },
+            {
+                "question": "Consent to contact?",
+                "answer": "You agree that we have your consent to contact you at any phone number, email address, or mailing address you provide for any Wells Fargo account or at any number that you call us from or at any number that we obtain by other means. If you provided a phone number(s), you agree that you are authorized to provide this phone number(s) and agree to receive calls and text messages from Wells Fargo at this number(s) for all your current and future Wells Fargo products and services. This does not give Wells Fargo permission to call or text you for marketing purposes. Message and data rates may apply. Message frequency varies. Automated systems, including prerecorded or artificial voice may be used."
+            },
+            {
+                "question": "What is the Notice to Ohio residents?",
+                "answer": "The Ohio laws against discrimination require that all creditors make credit equally available to all creditworthy customers, and that credit reporting agencies maintain separate credit histories on each individual upon request. The Ohio Civil Rights Commission administers compliance with this law."
+            },
+            {
+                "question": "What is the Notice to married Wisconsin residents?",
+                "answer": "If you are married, by submitting your credit card application you are confirming that this credit card obligation is being incurred in the interest of your marriage and your family. No provision of any marital property agreement (pre-marital agreement), unilateral statement under 766.59 of the Wisconsin Statutes, or a court decree under 766.70 adversely affects the interest of the creditor unless the creditor, prior to the time the credit is granted, is furnished a copy of the agreement, statement or decrees or has actual knowledge of the adverse provision. If the credit card for which you are applying is granted, you will notify the Bank if you have a spouse who needs to receive notification that credit has been extended to you."
+            },
+            {
+                "question": "What is Application agreement?",
+                "answer": "This application is for a credit card with Wells Fargo Bank, N.A. You certify that all information provided is true, correct, and complete and that you have the legal capacity to enter into this Agreement. The Bank is authorized to verify or check any of the information given and to obtain credit reports on you. You authorize the Bank to obtain information from others to investigate your credit, employment and income history and state records including state employment security agency records and to report information regarding your account to consumer reporting agencies. You agree that the Bank will determine the amount of credit extended, as well as which product you qualify for, based on the Bank's review criteria. If you do not qualify for the product or pricing requested or for the lowest pricing offered, you authorize the Bank to grant you the product and pricing for which you do qualify. You agree to be bound by the terms and conditions of the Agreement, which will be sent to you, and understand that the terms of your account may be changed at any time, subject to applicable law. You hereby stipulate to the terms of the arbitration program described in the Agreement. You understand and agree that you will be liable for payment of all amounts owing on the account. The minimum credit limit, provided you meet the terms and conditions of this offer, is $3,000.00. A consumer report from consumer reporting agencies will be obtained in considering this application and for the purposes of any update, renewal, extension of credit, review or collection of the account. Upon request, we will inform you of the name and address of each consumer reporting agency from which we obtain a consumer report relating to you. If you are a married applicant you may apply for credit in your own name."
+            },
+            {
+                "question": "Information Sharing",
+                "answer": "If a Choice Privileges Select Mastercard Credit Card is opened, the issuing bank, Wells Fargo Bank, N.A., will provide your full account number to Choice Hotels as part of the account opening process. We may share Account and personal information with Choice Hotels for purposes of administering or servicing the Card Rewards Program."
+            },
+            {
+                "question": "How do we calculate your variable APRs?",
+                "answer": "Unless an introductory or promotional APR is in effect, we will add a 'Margin' to the U.S. Prime Rate to determine your standard variable APR. For each billing period we will use the U.S. Prime Rate, or the average of the U.S. Prime Rates if there is more than one, published in the Money Rates column of The Wall Street Journal three business days prior to your billing statement closing date. If the U.S. Prime Rate is not published or is otherwise unavailable, whether temporarily or permanently, we will select a substitute index that we believe, in our sole discretion, to be similar to the U.S. Prime Rate. The U.S. Prime Rate is 7.50 percentage points as of 01/08/2025. The 'Margin' for purchases and balance transfers will be 12.49 to 21.74 percentage points, based on your creditworthiness. The Maximum APR is 29.99%. The 'Margin' for cash advances will be 22.74 percentage points. The Maximum APR is 29.99%. Wells Fargo reserves the right to change terms, rates (APRs) and fees, at its discretion in accordance with the Consumer Credit Card Customer Agreement and Disclosure Statement ('Agreement') for your account and applicable law.You may not qualify for the lowest APRs disclosed above."
+            },
+            {
+                "question": " Important notice",
+                "answer": "Please call to confirm receipt of your new card as soon as you receive it. If you do not do so, your requests for certain services such as balance transfers, Wells Fargo Online®, and ATM access may be delayed and you may be denied access to your account.This information about the cost of the credit card account described in this disclosure is accurate as of December 2024. This information may have changed after that date. To find out what may have changed, call 1-833-714-3490."
+            }
+            ,
+            {
+                "question": "Important Bonus Notice",
+                "answer": "60,000 bonus notice To qualify for the 60,000 bonus rewards points, a total of at least $3,000 in net purchases (purchases minus returns/credits) must post to your account within 3 months from the date your account is opened. These bonus rewards points will show as redeemable within 1 – 2 billing periods after they are earned. Cash advances and balance transfers do not apply for purposes of this offer and may affect the credit line available for this offer. ATM charges, cash advances, traveler’s checks, money orders, pre-paid gift cards, balance transfers, wire transfers, fees or interest posted to your card account such as returned payment fees, late fees, monthly or annual fees, bets or wagers transmitted over the internet, casino gaming chips, lottery tickets, off-track wagers, do not earn rewards points. Refer to the Choices Privileges Select World Elite Mastercard Rewards Program Agreement (the 'Card Rewards Program') Terms and Conditions ('Terms') for details."
+            }
+            ,
+            {
+                "question": "Brief about Cellular telephone protection",
+                "answer": "Cellular Telephone Protection can reimburse the eligible Choice Privileges Select Mastercard Credit Card cardholder for damage to, theft of, or involuntary and accidental parting of a cell phone. This is supplemental coverage not otherwise covered by another insurance policy (for example, cell phone insurance programs, or your homeowner’s, renter’s, automobile, or employer’s insurance policies) and may be applied after all other insurance is exhausted. Reimbursement is limited to the cost to repair or replace your original cell phone, less a $25 deductible with an allowable maximum of two paid claims per 12-month period. Each approved claim has a benefit limit of $800. This benefit does not cover cell phones that are lost (i.e., mysteriously disappear). This protection is only available when cell phone bills are paid with an eligible Choice Privileges Select Mastercard Credit Card. Eligible cell phones are the lines listed on your most recent cellular wireless service provider’s monthly billing statement for the billing cycle prior to when the incident occurred. Electronic failure or issues related to the software of the device are not covered. Cellular Telephone Protection coverage begins the first day of the calendar month following the payment of your first cell phone billing using your Choice Privileges Select Mastercard Credit Card, and remains in effect when you continue to charge your total monthly cell phone bill to your Choice Privileges Select Mastercard Credit Card. This protection may not be equivalent to or better than other applicable coverage. For complete coverage benefits and exclusions regarding this protection, refer to www.wellsfargo.com/choiceselectbenefits. Note: Call your cellular provider (or sign on to their website) and request to set up automatic payments. Setting up automatic payments is not required to qualify for Cellular Telephone Protection; however, you need to pay your monthly cell phone bill with your Choice Privileges Select Mastercard Credit Card to get up to $800 protection."
+            }
+        ]
+    },
+    {
+        "card_name":"Choices Privileges Select World Elite Mastercard",
+        "section_type": "Summary of the Wells Fargo Rewards Program Terms and Conditions",
+        "details": [
+          
+            {
+                "type": "Definitions",
+                "value": "'Account' means a Choice Privileges Select Mastercard Credit Card* issued by Wells Fargo Bank, N.A. ('Wells Fargo,'' We,''Our,' and 'Us'). 'Billing Cycle' is the interval between statements for Your Account.'You' and 'Your' means each person that has an Account.'authorized user' shall mean anyone legally authorized by you to use your card account.'Choice Privileges Rewards Program' refers to the loyalty program owned and operated by Choice Privileges Loyalty Services, LLC. The 'Choice Privileges Rewards Program Rules and Regulations' refers to the agreement between you and Choice. 'Choice Privileges Rewards Member account' means the account through which you participate in the Choice Privileges Rewards Program.'point(s)' represents an earning unit in the Choice Privileges Rewards Program.'net purchases' means purchases charged to Your Account minus returns and adjustments.'statement period' is the interval between statements for your card account.'transaction(s)' means a use of your card that results in a charge to your line of credit, excluding fees and finance charges.'account anniversary year' means the year beginning with your account open date through the anniversary of your account open date, each 12 months after that."
+            },
+            {
+                "type": "Agreement",
+                "value": "These Terms govern Your use of the Card Rewards Program. You agree to these Terms by participating in both this Card Rewards Program as well as the Choice Privileges Rewards Program. We may share Account information with Choice Privileges Rewards Program for purposes of administering or servicing the Card Rewards Program. Wells Fargo or Choice Privileges may contact You using any contact information You provide for purposes of servicing the Card Rewards Program. To contact You, We may call or text You using any phone number You provide to Us in connection with Your account. If the phone number You provide is for a mobile phone, You understand and agree that We may contact You using an autodialer, prerecorded or artificial voice message, or text message. You also understand that Your mobile carrier may charge message or data fees. You must have an open Choice Privileges Rewards Member account in which you are earning points."
+            }, 
+            {
+                "type": "Earning Points with your Choice Privileges Select Mastercard.",
+                "value": [
+                    {"type":"Description",
+                    "value":"One way to earn points on Your Choice Privileges Rewards membership is through purchases made on Your Choice Privileges Select Mastercard. The Card Rewards Program is automatically available for Your Account if it is open and not delinquent at the time points are earned. Choice Privileges Select Mastercard cardholders will earn: Choice Privileges Select Mastercard cardholders will earn:10 points (1 base point plus 9 bonus points) per $1 spent on qualifying net purchases made on the card Account on stays at Choice® brand hotels and at non-Choice brand hotels and resorts booked through choicehotels.com, the Choice mobile app, or by calling the Choice Hotels Service Center and, for Choice brand hotels only, for bookings made directly at the hotel (each participating hotel an 'Eligible Location'). Eligible Locations are located in the following regions: United States, Puerto Rico, Canada, Europe, the Middle East, Mexico, Central America, the Caribbean and Australasia. Europe excludes: Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway and Sweden. Note that all Choice brands, hotels or third-party hotels or resorts may not participate, and that Eligible Locations may be added or removed at any time; see choicehotels.com/creditcards/eligiblelocations* for a list of Eligible Locations and for any other locations that may be eligible. *You are leaving Wells Fargo and entering a website that Wells Fargo does not control. Wells Fargo has provided this link for your convenience but does not endorse and is not responsible for the content, links, privacy policy, or security policy of this website. You also earn 10 points (1 base plus 9 bonus points) per $1 spent on qualifying net purchases made on the Card Account of Choice Privileges points, which will be awarded in the billing cycle when the qualifying purchase posts to the Card Account. 5 points (1 base Point plus 4 bonus points) per $1 spent on qualifying net purchases at retailers whose merchant category for Mastercard® is classified in the following categories: Gas stations, automated fuel dispensers, and electric vehicle charging stations. Gas purchases at warehouses and membership clubs, grocery stores, car washes, auto repair stores, and superstores that sell gasoline may not be coded as gas stations and may not be eligible to earn bonus points. Grocery stores, supermarkets, delis and bakeries. Grocery purchases at warehouses and membership clubs, convenience stores, meal-kit delivery services, and superstores that sell groceries may not be coded as grocery stores and may not be eligible to earn bonus points. Landline and cell phone providers considered telecommunication services. Purchases of cell phone hardware, cell phone accessories, or subscription-based services not related to telecommunications, including cable television and streaming services, may not be coded as a telecommunication service and may not be eligible to earn bonus points. In addition, cell phone payments made through third-party merchants may not be classified as a telecommunication transaction and may not be eligible to earn bonus points. Home improvement stores, hardware stores, nurseries and garden supply stores, furniture and household appliances stores, home accessories stores, floor, glass, paint and wallpaper stores, lease/rental services for furniture and household appliances, swimming pool sales and supplies, contractors, or specialists for providing a home improvement services.  The following services may not earn bonus points:  exterminating and disinfecting services, cleaning, maintenance and janitorial services, miscellaneous repair and small appliance repair services, and welding services. In addition, supermarkets, department stores, discount stores, and wholesale clubs that sell home furnishings may not be coded as a home supply warehouse store or a furniture, home furnishings, and equipment store and may not be eligible to earn bonus points. One point will be earned per $1 spent on other qualifying net purchases.Anniversary Bonus Points. You will earn 30,000 points (your 'anniversary bonus points') each 12 month period (an 'anniversary year') that your card account remains open, not delinquent, and not in default at the time the award is issued. Your anniversary year begins on your account open date (your 'anniversary date') and ends on the day prior to your next anniversary date. For example, if your account anniversary date is November 28, your account anniversary year will end on November 27 each year. Your anniversary bonus will appear as pending on your anniversary date and will be redeemable within seven days after your anniversary date, after your billing cycle ends. Choice Privileges Elite Night Credits. 20 Elite Night Credits will be available in your Choice Privileges Rewards Program Member account, owned and operated by Choice, within 14 days upon the opening of your card account. On January 1 of each subsequent calendar year, the 20 Elite Night Credits will be available in your Choice Privileges Rewards Program account in accordance with Choice Privileges Rewards Program Rules and Regulations, as long as your card account is open as of December 31 of the prior calendar year. To be eligible to receive the 20 Elite Night Credits with your card account, you must have an active Choice Privileges Rewards Program Member account linked to your card account. Refer to the Choice Privileges Rewards Program Rules and Regulations at www.choicehotels.com/choice-privileges/rules-regulations* for details. *You are leaving Wells Fargo and entering a website that Wells Fargo does not control. Wells Fargo has provided this link for your convenience but does not endorse and is not responsible for the content, links, privacy policy, or security policy of this website. The following will not count as qualifying net purchases and do not earn points:"
+                    },
+                    { "type":"Cash Advances and Equivalents of Any Kind",
+                    "value":" ATM charges, cash advances, traveler’s checks, money orders, pre-paid gift cards, SUPERCHECKS™, wire transfers"
+                    },
+                    { "type":"Balance Transfers",
+                    "value":"Balance Transfers, SUPERCHECKS™"
+                    },
+                    { "type":"Disputes, Illegal Actions, and Violations",
+                    "value":"Disputed or illegal purchases, purchases that violate the terms of your Credit Card Account Agreement or the Choice Privileges Rewards Program Rules and Regulations"
+                    },
+                    { "type":"Fees and Interest of Any Kind",
+                    "value":"Fees or interest posted to your card account such as returned payment fees, late fees, monthly or annual fees"
+                    }, { "type":"Extra Details",
+                    "value":"Merchants are assigned codes by Mastercard based on the products or services they primarily sell. Purchases not processed using the codes for Mastercard identified above will not qualify for bonus points. Wells Fargo and Choice Privileges do not have the ability to control how a retailer chooses to classify their business and, therefore, reserves the right to determine which purchases qualify for bonus points. Merchants control when they process purchases; therefore the date each qualifying purchase posts to your account is determined solely based on the date provided by the merchant.You may not earn bonus points for purchases made through third-party payment accounts, at online marketplaces, with retailers who submit purchases using a mobile or wireless card reader, or if you use a mobile or digital wallet.You may view your earned and unredeemed points at Choice Privileges by logging into your membership account.Bonus Offer Points:Wells Fargo or Choice Privileges may offer you ways to earn bonus points through the Card Rewards Program or with third-party partners, such as special promotional offers ('promotional offers'). You’ll find out more about the number of points you can earn and any other terms at the time of the promotional offer. The additional terms for those promotional offers are incorporated by reference herein as part of these Terms as well as the Choice Privileges Rewards Program Rules and Regulations.Promotional offers may be subject to any such third party’s additional terms and conditions that are outside of Our control. We are not liable for the actions of those parties and their implementation of such additional terms and conditions. It is Your responsibility to carefully read and comply with any terms and conditions imposed in connection with any promotional offer."
+                    }, { "type":"Gambling Charges of Any Kind",
+                    "value":"Bets or wagers transmitted over the internet, casino gaming chips, lottery tickets, off-track wagers"
+                    }
+                    ]
+            },
+            {
+                "type": "Point Redemption.",
+                "value": "You can only redeem Your points at Choice Privileges. Point redemptions may not be refundable.  Refer to the Choice Privileges Rewards Program Rules and Regulations at www.choicehotels.com/choice-privileges/rules-regulations* for details. To learn more about the redemption value of a reward night earned from eligible stays at Choice Privileges, refer to www.choicehotels.com* for details. *You are leaving Wells Fargo and entering a website that Wells Fargo does not control. Wells Fargo has provided this link for your convenience but does not endorse and is not responsible for the content, links, privacy policy, or security policy of this website."
+            }, 
+            {
+                "type": "General Terms.",
+                "value": "We reserve the right to amend, cancel, or temporarily suspend the Card Rewards Program, in whole or in part, or change any of the terms, at any time and for any reason, which may result in the decrease of redemption value or cancellation or forfeiture of any spend that has not been allocated to a point. We will give you advance written notice of material changes to the Terms or Card Rewards Program. We reserve the right to remove any person from the Card Rewards Program in the event of suspected fraud or abuse of the Card Rewards Program privileges or a violation of these Terms, as determined solely by us. We reserve the right to delay or not enforce any of our rights under the Rewards Program without waiving or losing our rights to enforce them later. Any unredeemed points do not have cash value. At any time and for any reason without notice to you, Choice Privileges may change the amount of points required for a redemption. The card Account is only available if you have an open Choice Privileges Rewards Member account in your name. Your card Account will be closed if either you or Choice Hotels terminates or deactivates your Choice Privileges Rewards membership. Points accrued and issued by Choice Privileges are subject to the Rules and Regulations of the Choice Privileges Rewards Program. For complete Rules and Regulations of the Choice Privileges Rewards Program refer to www.choicehotels.com/choice-privileges/rules-regulations. *You are leaving Wells Fargo and entering a website that Wells Fargo does not control. Wells Fargo has provided this link for your convenience but does not endorse and is not responsible for the content, links, privacy policy, or security policy of this website. Rules and Regulations of the Choice Privileges Rewards Program may be modified and services and benefits may be added or deleted at any time without notice to cardholders. Choice Privileges Rewards Points awarded through the use of the authorized user’s card will only be credited to the primary cardholder’s membership account.Wells Fargo’s sole obligation concerning the award and redemption of points is to make a valid request to Choice Privileges to award points to Your associated Choice Privileges Rewards Member account. Points will be calculated each Billing Cycle. You will see Points you’ve earned from card purchases on Your monthly card billing statement. Points earned during a billing cycle will be automatically transferred to Choice Privileges Rewards Program after the end of each billing cycle. Returns or adjustments may affect your Points calculation. Wells Fargo disclaims liability or responsibility for Choice Privileges’ failure to award or redeem points to or from your associated Choice Privileges Rewards Member account after Wells Fargo has met its obligations to Choice Privileges Rewards Program in connection with such a request.This agreement governs the receipt of points in connection with the use of your card account and is separate and in addition to the Choice Privileges Rewards Program Rules and Regulations that govern your participation in the Choice Privileges Rewards Program. The Choice Privileges Rewards Program Rules and Regulations are available online at www.choicehotels.com/choice-privileges/rules-regulations. *You are leaving Wells Fargo and entering a website that Wells Fargo does not control. Wells Fargo has provided this link for your convenience but does not endorse and is not responsible for the content, links, privacy policy, or security policy of this website. Information in this agreement that relates to the Choice Privileges Rewards Program is not complete or comprehensive and does not include all of the information that you should know about the Choice Privileges Rewards Program.Some points or promotional offers you receive may qualify as taxable income to you. Your points’ value may be reported as income to the Internal Revenue Service, as well as state and local tax authorities. By using the Card Rewards Program, you are responsible for paying any federal, state or local taxes on the reward, or other connected fees or gratuities. If you have other questions about your tax liability, please consult your tax advisor."
+            }, 
+            {
+                "type": "Governing Law.",
+                "value": "These terms are governed by federal law and to the extent applicable, South Dakota law."
+            }, 
+            {
+                "type": "Arbitration Disclosure.",
+                "value": "These terms are made part of your credit card agreement with Wells Fargo Bank, N.A. and any arbitration provisions listed, including the Military Lending Act, will apply to these terms.* The Choice Privileges Select Mastercard Credit Card is issued and administered by Wells Fargo Bank, N.A. pursuant to a license from Mastercard International Incorporated. Mastercard is a registered trademark of Mastercard International Incorporated."
+            }
+        ]
+    },
+    {
+        "card_name": "One Key Mastercard",
+        "section_type": "Interest Rates and Interest Charges",
+        "details": [
+            {
+                "type": "Annual Percentage Rate (APR) for Purchases",
+                "value": "19.24%, 24.24%, or 29.24%, based on your creditworthiness. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "Annual Percentage Rate (APR) for Balance Transfers",
+                "value": "19.24%, 24.24%, or 29.24%, based on your creditworthiness. Balance Transfers are subject to eligibility. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "APR for Cash Advances",
+                "value": "29.24%. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "How to Avoid Paying Interest on Purchases",
+                "value": "Your due date is at least 25 days after the close of each billing period. We will not charge you any interest on purchases if you pay your entire adjusted balance by the due date each month."
+            },
+            {
+                "type": "Minimum Interest Charge",
+                "value": "If you are charged interest, the charge will be no less than $1.00."
+            },
+            {
+                "type": "For Credit Card Tips from the Consumer Financial Protection Bureau",
+                "value": "To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at https://www.consumerfinance.gov/learnmore.*"
+            }
+        ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Fees",
+      "details": [
+          {
+              "type": "Annual Fee",
+              "value": "None"
+          },
+          {
+              "type": "Transaction Fees",
+              "value": [
+                  {
+                      "type": "Balance Transfers",
+                      "value": "Up to 5% for each balance transfer, with a minimum of $5."
+                  },
+                  {
+                      "type": "Cash Advances",
+                      "value": "Either $10 or 5% of the amount of each advance, whichever is greater."
+                  },
+                  {
+                      "type": "Foreign Currency Conversion/Foreign Transaction",
+                      "value": "None"
+                  }
+              ]
+          },
+          {
+              "type": "Penalty Fees",
+              "value": [
+                  {
+                      "type": "Late Payment",
+                      "value": "Up to $40"
+                  }
+              ]
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "How We Will Calculate Your Balance",
+      "details": [
+          {
+              "question": "How do we calculate your balance?",
+              "answer": "We use a method called 'average daily balance (including new purchases).' We will begin charging interest on cash advances and balance transfers on the transaction date."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Important Details About Using This Credit Card Account",
+      "details": [
+          {
+              "question": "What is this application for?",
+              "answer": "This application is for a One Key Mastercard account with Wells Fargo Bank, N.A."
+          },
+          {
+              "question": "What do you agree to by applying for this credit card account?",
+              "answer": "Correct Information: You agree that all the information you provided in this application is true, correct, and complete. Legal Capability: You agree that you can legally enter into the Consumer Credit Card Customer Agreement and Disclosure Statement (Agreement). Marital Status: Regardless of your marital status, you are applying for a credit card account in your own name. Account Agreement: You agree to the terms and conditions of the Agreement, which we will send to you. You can also access the agreement by using this link: www.wellsfargo.com/credit-cards/agreements/onekey-agreement. Arbitration Terms: You agree to the arbitration terms included in the Agreement."
+          },
+          {
+              "question": "Are you eligible for introductory annual percentage rates (APRs), fees, and/or bonus rewards?",
+              "answer": "You may not be eligible for Introductory Offers if you have already opened a One Key Mastercard, One Key+ Mastercard, or Hotels.com Rewards Visa Credit Card account within the last 48 months and received an Introductory Offer."
+          },
+          {
+              "question": "Will you qualify if you already have a One Key Mastercard, One Key+ Mastercard, or Hotels.com Rewards Visa Credit Card account?",
+              "answer": "No. You are only allowed one account."
+          },
+          {
+              "question": "What procedures do we use to verify your identity when you open a Card Account?",
+              "answer": "To help the government fight the funding of terrorism and money laundering activities, U.S. Federal law requires financial institutions to obtain, verify, and record information that identifies each person who opens an account."
+          },
+          {
+              "question": "What should you do once you receive your new card?",
+              "answer": "As soon as your new card arrives, confirm that you received it using the provided methods. If not confirmed, requests for services such as balance transfers and ATM access may be delayed."
+          },
+          {
+              "question": "What is the minimum credit limit?",
+              "answer": "The minimum credit limit is $1,000.00."
+          },
+          {
+              "question": "How might we manage credit limits if you have multiple Wells Fargo Credit Card accounts?",
+              "answer": "If you have a Wells Fargo Credit Card with no balance and unused for six months, we may redistribute credit limits across your accounts. You can change credit limits by contacting Customer Service."
+          },
+          {
+              "question": "How do we calculate your variable APRs?",
+              "answer": "A variable APR is an interest rate that varies with the market based on the U.S. Prime Rate. To calculate your variable APR, we use the U.S. Prime Rate and add a margin."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Summary of the One Key Mastercard Rewards Program Terms and Conditions",
+      "details": [
+          {
+              "question": "How do you earn OneKeyCash?",
+              "answer": "You automatically participate if your Card Account is open and not delinquent. You must also have a U.S. One Key loyalty account. You earn OneKeyCash for eligible credit card purchases, including promotions and offers."
+          },
+          {
+              "question": "How is OneKeyCash calculated?",
+              "answer": "You earn 1.5% in OneKeyCash for every $1 spent on eligible purchases. Bonus rewards of an additional 1.5% (total 3%) are earned for purchases at Expedia, Hotels.com, and Vrbo."
+          },
+          {
+              "question": "Which transactions do not earn OneKeyCash?",
+              "answer": "Transactions such as cash advances, ATM charges, balance transfers, money orders, and gambling transactions do not qualify for OneKeyCash."
+          },
+          {
+              "question": "When is OneKeyCash calculated?",
+              "answer": "OneKeyCash is calculated each billing cycle and transferred to your One Key loyalty account after the billing cycle ends. This may take up to two billing cycles."
+          },
+          {
+              "question": "What happens to OneKeyCash if your Card Account or loyalty account closes?",
+              "answer": "If your Card Account closes, any OneKeyCash not transferred to your loyalty account is lost. If your loyalty account closes, your Card Account will also close."
+          },
+          {
+              "question": "What is our responsibility for your OneKeyCash?",
+              "answer": "Our only obligation is to request that Expedia, Inc. deposit OneKeyCash into your loyalty account. We are not responsible for Expedia, Inc.’s failure to award or redeem OneKeyCash."
+          },
+          {
+              "question": "How does the automatic One Key Silver tier work?",
+              "answer": "Primary cardholders automatically receive One Key Silver tier benefits while their Card Account is open."
+          },
+          {
+              "question": "How do I earn One Key Gold tier with my One Key Mastercard?",
+              "answer": "Spend $15,000 in net purchases in a calendar year to qualify. Gold tier benefits are valid through the end of the following calendar year."
+          },
+          {
+              "question": "Can we change the Card Rewards Program or these Terms?",
+              "answer": "Yes. We may amend, suspend, or cancel the Card Rewards Program and these terms at any time with prior notice."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Cellular Telephone Protection",
+      "details": [
+          {
+              "question": "What is Cellular Telephone Protection?",
+              "answer": "This coverage reimburses you for the cost to repair or replace your cell phone if it is damaged, stolen, or unrecoverable due to involuntary and accidental parting."
+          },
+          {
+              "question": "How do you receive this coverage?",
+              "answer": "Pay your monthly wireless bill with your covered One Key Mastercard. Coverage begins the first calendar month after your payment posts."
+          },
+          {
+              "question": "What is the maximum reimbursement amount?",
+              "answer": "You can receive up to $1,000 per claim and $2,000 per year for up to two claims annually. A $25 deductible applies to each claim."
+          },
+          {
+              "question": "What does this benefit not cover?",
+              "answer": "It does not cover cosmetic damage, cracked screens, scratches, or other issues that do not affect functionality."
+          },
+          {
+              "question": "Where can you find more information?",
+              "answer": "For complete coverage benefits, limitations, and exclusions, visit www.wellsfargo.com/onekeyplusbenefits."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Important Legal Notices and Governing Terms",
+      "details": [
+          {
+              "question": "Which laws govern these terms?",
+              "answer": "Federal law and South Dakota laws govern these terms."
+          },
+          {
+              "question": "Which arbitration terms apply?",
+              "answer": "The terms are part of your Credit Card agreement. Arbitration provisions, including those under the Military Lending Act, apply."
+          },
+          {
+              "question": "What is the governing body for rewards-related issues?",
+              "answer": "The One Key Terms and Conditions managed by Expedia, Inc. govern rewards-related matters. Wells Fargo is not responsible for administering the One Key loyalty program."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Additional Rewards Details",
+      "details": [
+          {
+              "question": "What are bonus rewards for specific purchases?",
+              "answer": "You earn an additional 1.5% in OneKeyCash (totaling 3%) on eligible purchases made at Expedia, Hotels.com, and Vrbo for activities such as car rentals, flights, and hotel bookings."
+          },
+          {
+              "question": "What purchases may not qualify for bonus rewards?",
+              "answer": "Transactions made through PayPal, charges from travel suppliers after booking, and bookings without being logged into the One Key loyalty account associated with the Card Account do not qualify."
+          },
+          {
+              "question": "What bonus rewards can you earn at gas stations, grocery stores, and dining establishments?",
+              "answer": "Earn 3% in OneKeyCash on qualifying purchases such as fuel, groceries, and restaurant dining. Purchases not properly categorized by the merchant may not earn bonus rewards."
+          },
+          {
+              "question": "Which transactions do not earn additional bonus rewards?",
+              "answer": "Transactions made through third-party payment systems, online marketplaces with multiple retailers, or unclassified merchant codes may not qualify for bonus rewards."
+          },
+          {
+              "question": "When is OneKeyCash available for use?",
+              "answer": "OneKeyCash earned during a billing cycle is transferred to your One Key loyalty account after the cycle ends. It may take up to two billing cycles for the rewards to appear."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Terms Related to OneKeyCash and Loyalty Account",
+      "details": [
+          {
+              "question": "What happens if your Card Account closes?",
+              "answer": "If your Card Account closes, any unallocated OneKeyCash will be lost. Rewards already transferred to your loyalty account will remain unaffected."
+          },
+          {
+              "question": "What happens if your One Key loyalty account closes?",
+              "answer": "Your Card Account will automatically close if your One Key loyalty account is closed for any reason."
+          },
+          {
+              "question": "Can the rewards program or terms change?",
+              "answer": "Yes, Wells Fargo and Expedia, Inc. reserve the right to amend, suspend, or cancel the program or terms at their discretion."
+          },
+          {
+              "question": "How are disputes regarding OneKeyCash handled?",
+              "answer": "Wells Fargo’s responsibility is limited to requesting Expedia, Inc. to deposit earned OneKeyCash into your loyalty account. Wells Fargo is not responsible for any failures by Expedia, Inc."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Introductory Offer and Bonus Rewards",
+      "details": [
+          {
+              "question": "What is the introductory offer?",
+              "answer": "You can earn $300 in OneKeyCash if you spend at least $1,000 in net purchases within 3 months from account opening."
+          },
+          {
+              "question": "When will the introductory offer rewards be available?",
+              "answer": "The $300 in OneKeyCash will post to your loyalty account within 1–2 billing cycles after meeting the spending requirement."
+          },
+          {
+              "question": "What transactions do not qualify for the introductory offer?",
+              "answer": "Transactions such as cash advances, ATM transactions, balance transfers, fees, interest, gambling transactions, and disputed or illegal purchases do not qualify."
+          },
+          {
+              "question": "What are the conditions for receiving OneKeyCash?",
+              "answer": "The OneKeyCash earned from the introductory offer is promotional and has no cash value. It is subject to the One Key Terms and Conditions."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Contact and Verification Terms",
+      "details": [
+          {
+              "question": "How and why can we contact you?",
+              "answer": "We may contact you via phone, text, or email at the details you provide. If you provide a mobile phone number, you consent to automated calls or texts."
+          },
+          {
+              "question": "What happens if your contact information changes?",
+              "answer": "You must promptly update us with any changes to your contact information, including name, email, mailing address, or phone numbers."
+          },
+          {
+              "question": "How do we verify your information?",
+              "answer": "We may contact your past, present, or future phone service providers to verify information you provide, such as name, address, and account status."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "State-Specific Credit Card Laws",
+      "details": [
+          {
+              "question": "How is the credit card law different for Ohio residents?",
+              "answer": "Ohio laws require creditors to make credit equally available to all creditworthy customers. Credit reporting agencies must maintain separate credit histories for individuals upon request."
+          },
+          {
+              "question": "How is the credit card law different for married Wisconsin residents?",
+              "answer": "Married Wisconsin residents confirm that the credit card obligation is incurred in the interest of their marriage or family. They must notify the Bank if their spouse needs notification of the credit."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Information Sharing and Privacy Terms",
+      "details": [
+          {
+              "question": "How does information sharing work?",
+              "answer": "If you open a One Key Mastercard, your full account number will be shared with Expedia, Inc. Personal data may also be shared to administer or service the Card Rewards Program and to market related products and services."
+          },
+          {
+              "question": "What is the responsibility of Wells Fargo regarding shared information?",
+              "answer": "Wells Fargo is not responsible for the content, links, privacy policy, or security policy of any third-party websites, including Expedia, Inc."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Payment Application and Credit Limits Management",
+      "details": [
+          {
+              "question": "How do we apply your payments?",
+              "answer": "Payments are applied to lower APR balances (such as purchases) first. Excess payments are applied to higher APR balances (such as cash advances) afterward."
+          },
+          {
+              "question": "How might we manage credit limits if you have multiple Wells Fargo Credit Card accounts?",
+              "answer": "We may redistribute your credit limits across accounts if you have an unused account with no balance for six months. You can request changes by contacting Customer Service."
+          }
+      ]
+    },
+    {
+      "card_name": "One Key Mastercard",
+      "section_type": "Arbitration and Governing Law",
+      "details": [
+          {
+              "question": "Which arbitration terms apply?",
+              "answer": "These terms are part of your Credit Card agreement. Arbitration provisions, including the Military Lending Act, apply."
+          },
+          {
+              "question": "What is the governing law for these terms?",
+              "answer": "Federal law and South Dakota laws govern these terms."
+          }
+      ]
+    }
+]
